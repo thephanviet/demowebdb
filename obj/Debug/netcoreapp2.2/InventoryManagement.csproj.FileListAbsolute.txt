@@ -1,0 +1,115 @@
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.deps.json
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.runtimeconfig.json
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.runtimeconfig.dev.json
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.Views.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.Views.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.csprojAssemblyReference.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.RazorAssemblyInfo.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.RazorAssemblyInfo.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.AssemblyInfoInputs.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.AssemblyInfo.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.TagHelpers.input.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.TagHelpers.output.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.RazorCoreGenerate.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.RazorTargetAssemblyInfo.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.RazorTargetAssemblyInfo.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.Views.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.csproj.CopyComplete
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\bin\Debug\netcoreapp2.2\appsettings.Development.json
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\bin\Debug\netcoreapp2.2\appsettings.json
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.genruntimeconfig.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.csproj.CoreCompileInputs.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\C#4\Slide\slide7\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\bin\Debug\netcoreapp2.2\appsettings.Development.json
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\bin\Debug\netcoreapp2.2\appsettings.json
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.deps.json
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.runtimeconfig.json
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.runtimeconfig.dev.json
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.Views.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.Views.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.csprojAssemblyReference.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.AssemblyInfoInputs.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.AssemblyInfo.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.csproj.CoreCompileInputs.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.RazorAssemblyInfo.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.RazorAssemblyInfo.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.TagHelpers.input.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.TagHelpers.output.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.RazorCoreGenerate.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.RazorTargetAssemblyInfo.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.RazorTargetAssemblyInfo.cs
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.Views.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.genruntimeconfig.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\AspCore\azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.csproj.CopyComplete
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\bin\Debug\netcoreapp2.2\appsettings.Development.json
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\bin\Debug\netcoreapp2.2\appsettings.json
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.deps.json
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.runtimeconfig.json
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.runtimeconfig.dev.json
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.dll
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.pdb
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.Views.dll
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\bin\Debug\netcoreapp2.2\InventoryManagement.Views.pdb
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.csprojAssemblyReference.cache
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.AssemblyInfoInputs.cache
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.AssemblyInfo.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.csproj.CoreCompileInputs.cache
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.RazorAssemblyInfo.cache
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.RazorAssemblyInfo.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.TagHelpers.input.cache
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.TagHelpers.output.cache
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.RazorCoreGenerate.cache
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.cshtml.g.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.cshtml.g.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.cshtml.g.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.cshtml.g.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.cshtml.g.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.RazorTargetAssemblyInfo.cache
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.RazorTargetAssemblyInfo.cs
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.Views.pdb
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.dll
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.pdb
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.genruntimeconfig.cache
+W:\Users\Thepv\Desktop\Python\dotnet-azure\InventoryManagement\obj\Debug\netcoreapp2.2\InventoryManagement.csproj.CopyComplete
